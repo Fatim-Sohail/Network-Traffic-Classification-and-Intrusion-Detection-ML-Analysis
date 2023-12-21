@@ -32,13 +32,12 @@ The dataset consists of various features related to network activity, such as du
 
 1. Clone the repository:
    ```bash
-   git clone (https://github.com/Fatim-Sohail/Network-Traffic-Classification-and-Intrusion-Detection-ML-Analysis.git)
+   git clone https://github.com/Fatim-Sohail/Network-Traffic-Classification-and-Intrusion-Detection-ML-Analysis.git
 2. Install dependencies:
-  ```bash
-  pip install -r requirements.txt
-3. Run the Jupyter Notebook:
-Explore the code, experiment with different models, and analyze the results.
+   ```bash
+   pip install -r requirements.txt
+3. Run the Jupyter Notebook
+4. Explore the code, experiment with different models, and analyze the results.
 
-Feel free to contribute, report issues, or suggest improvements. Happy coding!
-
-Make sure to replace "your-username" with your actual GitHub username in the
+Feel free to contribute, report issues, or suggest improvements. 
+Happy coding! :)
